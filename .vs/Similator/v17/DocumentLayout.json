@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\L480\\source\\repos\\Similator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\services\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\services\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\viewmodels\\loadportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\viewmodels\\loadportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\viewmodels\\loadportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\viewmodels\\loadportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\task summary.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\task summary.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\services\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\services\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\architecture.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -82,23 +86,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WaferSlot.cs",
-              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Models\\WaferSlot.cs",
-              "RelativeDocumentMoniker": "Similator\\Models\\WaferSlot.cs",
-              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Models\\WaferSlot.cs",
-              "RelativeToolTip": "Similator\\Models\\WaferSlot.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "LoadPortViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\ViewModels\\LoadPortViewModel.cs",
+              "RelativeDocumentMoniker": "Similator\\ViewModels\\LoadPortViewModel.cs",
+              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\ViewModels\\LoadPortViewModel.cs",
+              "RelativeToolTip": "Similator\\ViewModels\\LoadPortViewModel.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T13:15:10.02Z"
+              "WhenOpened": "2025-11-17T13:16:09.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Similator\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Similator\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAiwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:15:39.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Architecture.md",
+              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Architecture.md",
+              "RelativeDocumentMoniker": "Similator\\Architecture.md",
+              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Architecture.md",
+              "RelativeToolTip": "Similator\\Architecture.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-17T14:38:49.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Services\\RelayCommand.cs",
               "RelativeDocumentMoniker": "Similator\\Services\\RelayCommand.cs",
@@ -111,55 +141,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Architecture.md",
-              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Architecture.md",
-              "RelativeDocumentMoniker": "Similator\\Architecture.md",
-              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Architecture.md",
-              "RelativeToolTip": "Similator\\Architecture.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-11-17T14:38:49.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\README.md",
               "RelativeDocumentMoniker": "Similator\\README.md",
               "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\README.md",
               "RelativeToolTip": "Similator\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-11-17T13:59:41.64Z"
+              "WhenOpened": "2025-11-17T13:59:41.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "Similator\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "Similator\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T13:15:39.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoadPortViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\ViewModels\\LoadPortViewModel.cs",
-              "RelativeDocumentMoniker": "Similator\\ViewModels\\LoadPortViewModel.cs",
-              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\ViewModels\\LoadPortViewModel.cs",
-              "RelativeToolTip": "Similator\\ViewModels\\LoadPortViewModel.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAIwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T13:16:09.612Z"
+              "DocumentIndex": 3,
+              "Title": "Task Summary.md",
+              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Task Summary.md",
+              "RelativeDocumentMoniker": "Similator\\Task Summary.md",
+              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Task Summary.md",
+              "RelativeToolTip": "Similator\\Task Summary.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-17T15:13:02.711Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "WaferSlot.cs",
+              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Models\\WaferSlot.cs",
+              "RelativeDocumentMoniker": "Similator\\Models\\WaferSlot.cs",
+              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Models\\WaferSlot.cs",
+              "RelativeToolTip": "Similator\\Models\\WaferSlot.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:15:10.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Wafer.cs",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Models\\Wafer.cs",
               "RelativeDocumentMoniker": "Similator\\Models\\Wafer.cs",
@@ -171,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Similator\\MainWindow.xaml",
@@ -182,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RobotArmControl.xaml",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Views\\RobotArmControl.xaml",
               "RelativeDocumentMoniker": "Similator\\Views\\RobotArmControl.xaml",
@@ -193,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PositionToOffsetConverter.cs",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Converters\\PositionToOffsetConverter.cs",
               "RelativeDocumentMoniker": "Similator\\Converters\\PositionToOffsetConverter.cs",
@@ -205,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "OccupancyToVisibilityConverter.cs",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Converters\\OccupancyToVisibilityConverter.cs",
               "RelativeDocumentMoniker": "Similator\\Converters\\OccupancyToVisibilityConverter.cs",
@@ -217,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Similator\\MainWindow.xaml.cs",
@@ -229,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "OccupancyToBrushConverter.cs",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Converters\\OccupancyToBrushConverter.cs",
               "RelativeDocumentMoniker": "Similator\\Converters\\OccupancyToBrushConverter.cs",
@@ -241,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "RobotArmControl.xaml.cs",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Views\\RobotArmControl.xaml.cs",
               "RelativeDocumentMoniker": "Similator\\Views\\RobotArmControl.xaml.cs",
@@ -253,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LoadPortControl.xaml",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Views\\LoadPortControl.xaml",
               "RelativeDocumentMoniker": "Similator\\Views\\LoadPortControl.xaml",
@@ -264,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\App.xaml",
               "RelativeDocumentMoniker": "Similator\\App.xaml",
@@ -275,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LoadPortControl.xaml.cs",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Views\\LoadPortControl.xaml.cs",
               "RelativeDocumentMoniker": "Similator\\Views\\LoadPortControl.xaml.cs",
@@ -287,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "RobotArmViewModel.cs",
               "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\ViewModels\\RobotArmViewModel.cs",
               "RelativeDocumentMoniker": "Similator\\ViewModels\\RobotArmViewModel.cs",
