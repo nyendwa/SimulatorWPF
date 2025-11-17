@@ -26,3 +26,4 @@ C:\Users\L480\source\repos\Similator\Similator\obj\Debug\net8.0-windows\Views\Lo
 C:\Users\L480\source\repos\Similator\Similator\obj\Debug\net8.0-windows\Views\RobotArmControl.baml
 C:\Users\L480\source\repos\Similator\Similator\obj\Debug\net8.0-windows\Similator.csproj.Up2Date
 C:\Users\L480\source\repos\Similator\Similator\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\L480\source\repos\Similator\Similator\obj\Debug\net8.0-windows\Similator.sourcelink.json

@@ -4,8 +4,17 @@ using System.Runtime.CompilerServices;
 
 namespace Simulator.Models
 {
+    /// <summary>
+    /// Represents a single slot inside a cassette or load port.
+    /// A slot may contain a wafer or be empty.
+    /// </summary>
     public class WaferSlot : INotifyPropertyChanged
     {
+        /// Represents a slot that can hold a wafer.
+        /// <summary>
+        /// Backing field for the wafer currently inside this slot.
+        /// Null means the slot is empty.
+        /// </summary>
         private Wafer? _occupant;
 
         /// <summary>
@@ -18,6 +27,7 @@ namespace Simulator.Models
         /// </summary>
         public Wafer? Occupant
         {
+            // Get or set the wafer occupying this slot.
             get => _occupant;
             set
             {
@@ -30,8 +40,10 @@ namespace Simulator.Models
             }
         }
 
+       
         public bool IsOccupied => Occupant != null;
 
+        
         public WaferSlot(int index)
         {
             SlotIndex = index;

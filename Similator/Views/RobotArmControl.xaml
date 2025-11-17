@@ -1,12 +1,43 @@
-﻿<UserControl x:Class="Similator.Views.RobotArmControl"
+﻿<UserControl x:Class="Simulator.Views.RobotArmControl"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
-             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:Similator.Views"
-             mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
+             xmlns:conv="clr-namespace:Simulator.Converters"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             Height="140" Width="300">
+    <UserControl.Resources>
+        <conv:PositionToOffsetConverter x:Key="PosToOffset" OffsetA="-80" OffsetB="80" />
+        <conv:OccupancyToVisibilityConverter x:Key="OccToVisibility" />
+    </UserControl.Resources>
+
     <Grid>
-            
+        <!-- Track -->
+        <Rectangle Height="6" Fill="DarkGray" RadiusY="3" RadiusX="3" VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="20,0"/>
+
+        <!-- Arm + wafer: using TranslateTransform bound to Position -->
+        <Canvas HorizontalAlignment="Center" VerticalAlignment="Center" Height="80">
+            <Ellipse Width="38" Height="38" Fill="Orange" Stroke="Black" StrokeThickness="0.8">
+                <Ellipse.RenderTransform>
+                    <TranslateTransform X="{Binding Position, Converter={StaticResource PosToOffset}}" Y="0"/>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+
+            <!-- wafer on arm: shown only when Robot.WaferOnArm != null -->
+            <Ellipse Width="22" Height="22" Fill="CadetBlue">
+                <Ellipse.RenderTransform>
+                    <TranslateTransform X="{Binding Position, Converter={StaticResource PosToOffset}}" Y="8"/>
+                </Ellipse.RenderTransform>
+                <Ellipse.Visibility>
+                    <Binding Path="WaferOnArm" Converter="{StaticResource OccToVisibility}" />
+                </Ellipse.Visibility>
+            </Ellipse>
+        </Canvas>
+
+        <!-- Status -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="6">
+            <TextBlock Text="Pos:" FontWeight="Bold" Margin="0,0,6,0"/>
+            <TextBlock Text="{Binding Position}" />
+            <TextBlock Text="  Holding:" FontWeight="Bold" Margin="10,0,6,0"/>
+            <TextBlock Text="{Binding IsHolding}" />
+        </StackPanel>
     </Grid>
 </UserControl>
