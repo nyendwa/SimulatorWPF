@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbuHy97jP10=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Similator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\L480\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
