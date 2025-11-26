@@ -8,7 +8,9 @@ namespace Simulator.Models
         public int Id { get; set; }
 
         // Default constructor.
-        public Wafer() { }
+        public Wafer() { 
+        
+        }
 
         // Constructor with identifier.
         public Wafer(int id)

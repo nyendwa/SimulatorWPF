@@ -1,13 +1,13 @@
-﻿using System;
-using System.Globalization;
+﻿using System.Globalization;
 using System.Windows.Data;
 
 namespace Simulator.Converters
 {
     public class PositionToOffsetConverter : IValueConverter
     {
-        public double OffsetA { get; set; } = -80;
-        public double OffsetB { get; set; } = 80;
+        public double OffsetA { get; set; } = 80;      // Position A = move RIGHT 80px
+        public double OffsetB { get; set; } = -80;     // Position B = move LEFT 80px
+
 
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {

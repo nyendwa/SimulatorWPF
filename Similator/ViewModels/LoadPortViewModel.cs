@@ -9,7 +9,6 @@
 // one wafer. The View will bind to `Slots` to visualize occupancy.
 
 using System.Collections.ObjectModel;
-using System.Linq;
 using Simulator.Models;
 
 namespace Simulator.ViewModels

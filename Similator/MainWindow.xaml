@@ -19,9 +19,23 @@
         <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="0,0,0,8">
             <Button Content="Start" Width="90" Margin="4" Command="{Binding StartCommand}" />
             <Button Content="Pause" Width="90" Margin="4" Command="{Binding PauseCommand}" />
+
+            <!-- small spacer -->
             <TextBlock Text="  " />
+
+            <!-- Speed label -->
             <TextBlock Text="Speed (ms):" VerticalAlignment="Center" Margin="8,0,4,0" />
-            <!-- You can later add a Slider or TextBox to set a bindable speed property -->
+
+            <!-- Slider bound to TransferSpeedMs on MainViewModel -->
+            <Slider Width="240"
+                    Minimum="100"
+                    Maximum="2000"
+                    TickFrequency="100"
+                    IsSnapToTickEnabled="True"
+                    Value="{Binding TransferSpeedMs, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+            <!-- Display numeric value -->
+            <TextBlock Text="{Binding TransferSpeedMs}" VerticalAlignment="Center" Margin="8,0,0,0" Width="60" TextAlignment="Center"/>
         </StackPanel>
 
         <Grid>

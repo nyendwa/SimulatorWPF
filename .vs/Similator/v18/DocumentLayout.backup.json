@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L480\\source\\repos\\Similator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\viewmodels\\loadportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\viewmodels\\loadportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\models\\waferslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\models\\waferslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\models\\wafer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\models\\wafer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|c:\\users\\l480\\source\\repos\\similator\\similator\\services\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570A262D-8623-4521-ADD2-A76F0472E451}|Similator\\Similator.csproj|solutionrelative:similator\\services\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadPortViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\ViewModels\\LoadPortViewModel.cs",
+              "RelativeDocumentMoniker": "Similator\\ViewModels\\LoadPortViewModel.cs",
+              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\ViewModels\\LoadPortViewModel.cs*",
+              "RelativeToolTip": "Similator\\ViewModels\\LoadPortViewModel.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwF8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:00:32.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaferSlot.cs",
+              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Models\\WaferSlot.cs",
+              "RelativeDocumentMoniker": "Similator\\Models\\WaferSlot.cs",
+              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Models\\WaferSlot.cs",
+              "RelativeToolTip": "Similator\\Models\\WaferSlot.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:59:41.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wafer.cs",
+              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Models\\Wafer.cs",
+              "RelativeDocumentMoniker": "Similator\\Models\\Wafer.cs",
+              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Models\\Wafer.cs",
+              "RelativeToolTip": "Similator\\Models\\Wafer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:59:34.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Services\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Similator\\Services\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\L480\\source\\repos\\Similator\\Similator\\Services\\RelayCommand.cs",
+              "RelativeToolTip": "Similator\\Services\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:58:29.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
